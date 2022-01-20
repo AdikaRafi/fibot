@@ -949,7 +949,6 @@ ros = await Fi.prepareMessageFromContent(from,{
 "title": `${ucapanWaktu} - ${time}`,
 "rows": [
 {
-{
 "title": "Random Menu ⚡️",
 "rowId": `${prefix}randommenu`
 },
